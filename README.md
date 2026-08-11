@@ -2,7 +2,7 @@
 
 > **Interactive Power BI dashboard for analyzing Emergency Room patient volume, wait times, satisfaction, referrals, admissions, demographics, and operational patterns.**
 
-![Hospital Emergency Room Dashboard](images/Consolidated_View_Chart.png)
+
 
 ## 📌 Project Overview
 
@@ -75,9 +75,6 @@ The Monthly View provides a detailed analysis for a selected year and month.
 - Patient satisfaction trend
 - Referral trend
 
-### Example
-
-![Monthly View](images/Monthly_View_Chart.png)
 
 ---
 
@@ -99,9 +96,7 @@ The Consolidated View provides a holistic summary for a selected date range.
 - Patient race
 - Patient volume by day and hour
 
-### Example
 
-![Consolidated View](images/Consolidated_View_Chart.png)
 
 ---
 
@@ -121,9 +116,7 @@ The Patient Details page provides a granular patient-level view for detailed ana
 - Department Referral
 - Admission Status
 
-### Example
 
-![Patient Details](images/Paitent_Details.png)
 
 ---
 
@@ -141,9 +134,7 @@ The analysis covers:
 - Admission patterns
 - Overall operational summary
 
-### Example
 
-![Key Takeaways](images/Key_Takeaway.png)
 
 ---
 
@@ -329,32 +320,6 @@ These controls allow users to move from an overall hospital view to more detaile
 
 ---
 
-# 📁 Suggested GitHub Repository Structure
-
-```text
-Hospital-Emergency-Room-Dashboard/
-│
-├── README.md
-│
-├── Data/
-│   └── Hospital ER_Data.csv
-│
-├── PowerBI/
-│   └── Hospital Emergency Room Project.pbix
-│
-├── Images/
-│   ├── Consolidated_View_Chart.png
-│   ├── Monthly_View_Chart.png
-│   ├── Paitent_Details.png
-│   └── Key_Takeaway.png
-│
-└── Documentation/
-    └── Data Terminology.docx
-```
-
-> GitHub paths are case-sensitive. If you use `Images/` instead of `images/`, update the image paths in this README accordingly.
-
----
 
 # 🚀 How to Use the Project
 
@@ -403,16 +368,16 @@ The dashboard can support hospital management in:
 # 📸 Dashboard Preview
 
 ### Consolidated View
-![Consolidated View](images/Consolidated_View_Chart.png)
+![Alt text](https://github.com/Panchal-sunil/Hospital-Emergency-Room-Project/blob/main/Images/Consolidated_View_Chart.png)
 
 ### Monthly View
-![Monthly View](images/Monthly_View_Chart.png)
+![Alt text](https://github.com/Panchal-sunil/Hospital-Emergency-Room-Project/blob/main/Images/Monthly_View_Chart.png)
 
 ### Patient Details
-![Patient Details](images/Paitent_Details.png)
+![Alt text]( https://github.com/Panchal-sunil/Hospital-Emergency-Room-Project/blob/main/Images/Patient_Details.png)
 
 ### Key Takeaways
-![Key Takeaways](images/Key_Takeaway.png)
+![Alt text](https://github.com/Panchal-sunil/Hospital-Emergency-Room-Project/blob/main/Images/Key_Takeaway.png)
 
 ---
 
